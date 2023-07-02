@@ -1,0 +1,7 @@
+This script connects to the Polkadot network using the @polkadot/api package. It establishes a connection to the network, retrieves the latest block information, and logs the block number to the console.
+
+The script demonstrates how to interact with the Polkadot network and can serve as a starting point for building more complex applications or performing additional operations.
+
+Please note that you need to have the necessary dependencies installed, including the @polkadot/api package, in order to run the script.
+
+Feel free to modify and customize the script based on your specific requirements and needs.
