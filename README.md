@@ -1,5 +1,5 @@
 # Polkadot-Network-Interaction
-This script allows you to connect to the Polkadot network and perform basic operations. 
+With this script, you have the capability to connect to the Polkadot network and perform basic operations
 const { ApiPromise, WsProvider } = require('@polkadot/api');
 
 // Connect to the Polkadot network
