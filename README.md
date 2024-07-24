@@ -24,5 +24,3 @@ async function connectToPolkadot() {
   const blockHeader = await api.rpc.chain.getHeader(blockHash);
   console.log('Latest Block Number:', blockHeader.number.toNumber());
 })();
- 
-Polkadot
