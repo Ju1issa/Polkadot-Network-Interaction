@@ -25,3 +25,4 @@ async function connectToPolkadot() {
   console.log('Latest Block Number:', blockHeader.number.toNumber());
 })();
  
+# Polkadot Network Interaction  
